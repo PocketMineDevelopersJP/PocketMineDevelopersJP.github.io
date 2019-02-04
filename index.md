@@ -24,9 +24,7 @@ Discordで発足した、Minecraft:BedrockEdition(統合版)向けの、PocketMi
 
 ***
 
-<details>
-
-<summary><h2>このコミュニティの目的</h2></summary>
+## このコミュニティの目的
 
 ### 現在起きている問題
 
@@ -76,5 +74,3 @@ Discordでは荒らし防止の為、スパム対策のBotを導入している�
 ### > そもそも開発者向けではない
 
 Discord、MCBEForum共にコードハイライトに対応しており、DiscordではBotを使って開発者を支援するシステムを構築している。
-
-</details>
