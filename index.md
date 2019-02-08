@@ -26,7 +26,7 @@ Discordで発足した、Minecraft:BedrockEdition(統合版)向けの、PocketMi
 
 ## MarkDown記法
 
-[DiscordのMarkDown記法についてはこちら](/mark)
+[DiscordのMarkDown記法についてはこちら](/mark.md)
 
 ***
 
