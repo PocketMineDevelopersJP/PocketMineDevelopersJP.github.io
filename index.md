@@ -24,6 +24,12 @@ Discordで発足した、Minecraft:BedrockEdition(統合版)向けの、PocketMi
 
 ***
 
+## MarkDown記法
+
+[DiscordのMarkDown記法についてはこちら](/mark)
+
+***
+
 ## このコミュニティの目的
 
 ### 現在起きている問題
